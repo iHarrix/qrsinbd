@@ -13,7 +13,7 @@
  * @version   5.3.5
  * @link      http://veno.es/qrcdr/
  */
-$version = '5.3.5';
+$version = '5.5';
 
 if (version_compare(phpversion(), '5.4', '<')) {
     exit("QRcdr requires at least PHP version 5.4.");
